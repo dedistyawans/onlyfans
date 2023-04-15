@@ -1,0 +1,137 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "interstitial_type": "lap"
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "203187142",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings": {
+    "template_mode" : 1
+  },
+
+  "Item": [
+    {
+      "id":0,
+      "name":"Melia",
+      "image_url":"file:///android_asset/img1.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":1,
+      "name":"Cheryl",
+      "image_url":"file:///android_asset/img2.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":2,
+      "name":"Clarabell",
+      "image_url":"file:///android_asset/img3.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":3,
+      "name":"Calia",
+      "image_url":"file:///android_asset/img4.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":4,
+      "name":"Davira",
+      "image_url":"file:///android_asset/img5.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":5,
+      "name":"Dana",
+      "image_url":"file:///android_asset/img6.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":6,
+      "name":"Danita",
+      "image_url":"file:///android_asset/img7.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":7,
+      "name":"Rajeena",
+      "image_url":"file:///android_asset/img8.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":8,
+      "name":"Raqima",
+      "image_url":"file:///android_asset/img9.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":9,
+      "name":"Tira",
+      "image_url":"file:///android_asset/img10.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":10,
+      "name":"Xynerva",
+      "image_url":"file:///android_asset/img11.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":11,
+      "name":"Yoko",
+      "image_url":"file:///android_asset/img12.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":12,
+      "name":"Zerina",
+      "image_url":"file:///android_asset/img13.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":13,
+      "name":"Kayra",
+      "image_url":"file:///android_asset/img14.png",
+      "video_url":"video",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":14,
+      "name":"Laquitta",
+      "image_url":"file:///android_asset/img15.png",
+      "video_url":"video2",
+      "voice_url":"audio.mp3"
+    }
+  ]
+}
