@@ -1,1 +1,94 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 2,
+      "switch_ads_type": "only_banner",
+      "interstitial_type": "lap",
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "enable_activity_maintenance_with_ads": true,
+      "ad_network_order": "percent_order",
+      "app_live_store" : "auto"
+    },
 
+    "ad_network": [
+      {
+        "name": "x_startapp",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "204306476",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "enable_intro_guide": false,
+    "list_view_mode" : "mas_faiq",
+    "enable_native_list_mas_faiq": true,
+    "enable_banner_mas_faiq" : true,
+    "item_interval_native_ad_list": 3,
+    "enable_acak_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
+    "enable_category": true,
+    "enable_more_app": false,
+    "enable_privacy_policy": false
+  },
+
+  "More": [
+    {
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+
+  "Categories": [
+    {
+      "name_category": "Tutorial",
+      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+    },
+    {
+      "name_category": "Tutorial 2",
+      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+    },
+    {
+      "name_category": "Tutorial",
+      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+    },
+    {
+      "name_category": "Tutorial 2",
+      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "Video Youtube",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "video_id": "mOW0jfmg8Fg"
+    }
+  ]
+}
